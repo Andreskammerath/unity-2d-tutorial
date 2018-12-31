@@ -1,2 +1,2 @@
-# unity-2d-tutorial
+# Unity 2D first tutorial
 Learning a little bit of unity engine
